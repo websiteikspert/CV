@@ -1,0 +1,129 @@
+body{ text-align: center;
+    color: #66BFBF;
+      font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    line-height: 2;
+    margin: 0;
+    }
+
+.heading{background-color: #EAF6F6;
+margin:0;
+padding: 0;
+position: relative;
+}
+
+.sub-heading{position: relative;
+}
+
+img.a{position: absolute;
+    right: 20%;
+    padding-top: 5%;}
+
+h1{ color: #66BFBF;
+font-family:"Sacramento", cursive, sans-serif;
+line-height: 2;
+font-size: 3rem;
+margin: 0;
+padding-top: 85px;}
+
+h2{margin: 20px auto 0 auto;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 1.5rem;
+text-transform: uppercase}
+
+img.b{position: absolute;
+left: 20%;
+bottom: 50%;
+padding-top: 30px;
+}
+
+img.c{height:300px;
+    width: 400px;
+padding-top: 40px;}
+
+.d{height: 200px;
+width: 200px;
+margin: 50px auto 10px;}
+
+p{color: #40514E;
+margin: none;}
+
+hr{border: dotted gray;
+border-bottom: none;
+border-width: 5px;
+width: 10%;
+margin: 60px auto 60px auto;}
+
+.first-container{ position: relative;;
+}
+
+.app-development{
+height: 200px;
+width: 200px;
+
+}
+
+
+.gd{ height: 200px;
+    width: 200px;
+}
+
+.second-container{margin-top: 6rem;
+margin-bottom:20rem;}
+
+.second-paragraph{margin-top:0;
+width: 50%;
+position: absolute;
+right: 30%;}
+
+.third-container {margin-top: 6rem;
+    margin-bottom:6rem;}
+
+.Computer-engineering{height: 200px;
+    width: 200px;}
+
+    h3{ margin-top: 6rem;}
+.space{width: 6rem;}
+
+.btn {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #80ed99;
+    box-shadow: 0 5px #57cc99;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    box-shadow: 0 3px #57cc99;
+    top: 1px;
+  }
+
+  .btn:active {
+    box-shadow: 0 0 #57cc99;
+    top: 5px;
+  }
+
+.fourth-container{background-color: #66BFBF;
+height:90px;
+margin-top: 80px;}
+
+.copyright{color: #EAF6F6;
+font-family: 'Times New Roman', Times, serif;
+font-size: 1rem;
+margin: 0;}
+
+.DM{text-decoration: none;
+color: #11999E;
+font-family: serif;
+font-size: 1rem;
+}
